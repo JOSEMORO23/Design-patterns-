@@ -1,7 +1,6 @@
 # Instituto Tecnológico del Azuay
 
 **Asignatura:** Patrones de Diseño
-**Estudiante:
 **Docente:** Veronica Segarra*
 **Entrega:** **Subir a GitHub hasta el *30 de septiembre de 2025***
 
