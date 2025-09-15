@@ -9,7 +9,7 @@
 ## Instrucciones Generales
 
 * Lenguaje sugerido: **Java** (puedes adaptar a C# o Python si lo prefieres).
-* Crea un repositorio en GitHub con el nombre: `patrones-diseno-veronica-segarra`.
+* Crea un repositorio en GitHub con el nombre: `patrones-diseno-nombre-del-estudiante`.
 * Estructura del repo:
 
   ```
