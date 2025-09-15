@@ -1,4 +1,4 @@
-# Instituto Tecnológico del Azuay
+# Instituto Tecnológico Universitario del Azuay
 
 **Asignatura:** Patrones de Diseño
 **Docente:** Veronica Segarra*
